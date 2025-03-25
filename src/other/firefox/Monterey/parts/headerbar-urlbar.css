@@ -13,8 +13,8 @@ toolbarspring {
 	--urlbar-toolbar-height: 32px !important;
 	--urlbar-inner-padding: 0 !important;
 	box-shadow: none !important;
-	width: 360px !important;
-	min-width: 360px !important;
+	width: 480px !important;
+	min-width: 480px !important;
 }
 
 #urlbar[focused="true"]:not([suppress-focus-border]) > #urlbar-background {
@@ -26,15 +26,15 @@ toolbarspring {
 #urlbar #urlbar-input-container,
 #urlbar .urlbar-input-container {
 	padding: 0 !important;
-	width: 360px !important;
-	min-width: 360px !important;
+	width: 480px !important;
+	min-width: 480px !important;
 }
 
 :root[sizemode="maximized"] #urlbar,
 :root[sizemode="maximized"] #urlbar-container,
 :root[sizemode="maximized"] #wrapper-urlbar-container {
-	width: 360px !important;
-	min-width: 360px !important;
+	width: 480px !important;
+	min-width: 480px !important;
 }
 
 #urlbar-background {
@@ -45,7 +45,7 @@ toolbarspring {
 }
 
 #urlbar[breakout][breakout-extend] {
-	width: 360px !important;
+	width: 480px !important;
 	z-index: 5 !important;
 	padding: 0 !important;
 	border-radius: 8px !important;

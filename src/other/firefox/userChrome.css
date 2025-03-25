@@ -17,7 +17,7 @@
 
 /* How many buttons on right headerbar */
 @import "Monterey/right_header_button_3.css"; /**/
-/*@import "Monterey/right_header_button_4.css"; /**/
+/* @import "Monterey/right_header_button_4.css"; /* */
 /*@import "Monterey/right_header_button_5.css"; /**/
 
 
@@ -49,7 +49,7 @@
 /*@import "Monterey/drag-window-headerbar-buttons.css"; /**/
 
 /* Make all tab icons look kinda like symbolic icons */
-@import "Monterey/symbolic-tab-icons.css"; /*
+/* @import "Monterey/symbolic-tab-icons.css"; /* */
 
 /* Hide window buttons (close/min/max) in maximized windows */
 /*@import "Monterey/hide-window-buttons.css"; /**/

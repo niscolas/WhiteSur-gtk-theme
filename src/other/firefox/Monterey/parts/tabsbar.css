@@ -213,6 +213,15 @@ tab[selected]:-moz-window-inactive .tab-label {
 	max-height: 32px !important;
 	min-height: 32px !important;
 	border-radius: 8px !important;
+    z-index: 1000 !important;
+}
+
+#TabsToolbar #downloads-button .toolbarbutton-badge-stack {
+    padding: 0 !important;
+}
+
+.toolbaritem-combined-buttons .unified-extensions-item-action-button .toolbarbutton-badge-stack {
+    padding: 2px !important;
 }
 
 #TabsToolbar .toolbarbutton-1 image,
